@@ -1,7 +1,7 @@
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
 
-.phone-number {
-    padding-left: 0;
+.navbar {
+    margin-bottom: 30px;
 }
 
 .card {
